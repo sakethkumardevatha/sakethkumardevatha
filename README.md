@@ -1,4 +1,4 @@
-Hey there! 👋 I'm **Saketh Kumar Devatha**, a passionate and aspiring [Your main role, e.g., Software Developer, Computer Science Student, Web Developer, Data Enthusiast] from [ Bangalore, India]. Welcome to my GitHub!
+Hey there! 👋 I'm **Saketh Kumar Devatha**, a passionate and enthusiastic final year student studying in GITAM university Bangalore, India. Welcome to my GitHub!
 
 ## My GitHub Stats
 
