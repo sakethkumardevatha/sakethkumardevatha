@@ -8,4 +8,4 @@ Hey there! 👋 I'm **Saketh Kumar Devatha**, a passionate and aspiring [Your ma
 
 ## My LeetCode Progress
 
-[![LeetCode Stats](https://leetcodestats.colorful-cat.vercel.app/api?username=sakethk2004&theme=dark)](https://leetcode.com/sakethk2004)
+[![LeetCode Stats](https://leetcode.card.workers.dev/sakethk2004?theme=dark&font=Fira%20Code&extension=activity)](https://leetcode.com/saketh2004)
