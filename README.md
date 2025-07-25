@@ -1,5 +1,8 @@
 ## Hi there 👋
+```markdown
+### My LeetCode Journey 🚀
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sakethkumardevatha?theme=dark&ext=activity)](https://leetcode.com/sakethkumardevatha)
 <!--
 **sakethkumardevatha/sakethkumardevatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
