@@ -2,7 +2,7 @@
 ```markdown
 ### My LeetCode Journey 🚀
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sakethkumardevatha?theme=dark&ext=activity)](https://leetcode.com/sakethkumardevatha)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakethkumardevatha&theme=dark&show_icons=true)
 <!--
 **sakethkumardevatha/sakethkumardevatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
